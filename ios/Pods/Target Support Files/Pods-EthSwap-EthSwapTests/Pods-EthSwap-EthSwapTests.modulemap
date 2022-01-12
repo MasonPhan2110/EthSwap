@@ -1,0 +1,6 @@
+module Pods_EthSwap_EthSwapTests {
+  umbrella header "Pods-EthSwap-EthSwapTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
